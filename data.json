@@ -45,25 +45,6 @@
             "location": "Springfield, Virginia",
 
             "address" : "7500 Accotink Park Rd, Springfield, VA 22150"
-        },
-        {
-            "id": 5, 
-            "title": "Cox Farms", 
-            "description": "Located In Centreville, Virgina, this major attractions brings people around Northern Virginia. They are well know to be open in the Fall Season, and having the best of traditions, and cool features. Also, nice meals and drinks that go well with the Fall Season.",
-            "image":"https://raw.githubusercontent.com/zainkahmad/project/refs/heads/main/Cox_Farm.JPG", 
-            "website":"https://coxfarmsva.com/",
-            "address":"15621 Braddock Rd, Centreville, VA 20120",
-            "location":"Centreville, Virginia"
-        }, 
-
-        {
-             "id": 6, 
-            "title" : "Ashburn Lake", 
-            "description": "Come and visit Ashburn, Virginia. The capital of Data Centers, a fast growing area in Loudoun County, and the richest area. Over here, please take a look at Ashburn Lake. Here, it's a very peacefull walk, and a slight breeze will hit when walking around it.",
-            "image": "https://raw.githubusercontent.com/zainkahmad/project/refs/heads/main/Ashbrun.JPG",
-            "website": "https://www.ashburnvillage.org/info.php?pnum=8",
-            "address": "Cheltenham Cir, Ashburn, VA 20147", 
-            "location" : "Ashburn, Virginia"
         }
     ],
     "Status": "OK"
