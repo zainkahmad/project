@@ -1,0 +1,82 @@
+{
+    "Places to Visit":[
+        {
+            "id": 1,
+            "title": "Mount Vernon",
+            "description": "Home of George Washington, located in the Mount Vernon area of Alexandria. This spot is really popular to learn more about the history about the first president of the United States",
+            "image": "https://raw.githubusercontent.com/zainkahmad/project/refs/heads/main/Mt%20Vernon.JPG", 
+            "website":"https://www.mountvernon.org/", 
+            "location": "Alexandria, Virginia", 
+            "address": "3200 Mount Vernon Memorial Hwy, Mt Vernon, VA 22121",
+            "priority": 1
+        },
+
+        {
+            "id": 2,
+            "title": "George Mason University",
+            "description":"Visit the most diverse public university in Virginia. At GMU, we are a R1 Research Institution with high levels of research. Offers a lot of programs that give students the most flexibility",
+            "image": "https://raw.githubusercontent.com/zainkahmad/project/refs/heads/main/GMU.jpg", 
+            "website":"https://www.gmu.edu/",
+            "location": "Fairfax, Virginia", 
+            "address" : "4400 University Drive, Fairfax, VA 22030",
+            "priority": 2
+
+
+        },
+
+        {
+            "id": 3,
+            "title":"Founders Park",
+            "description":"Vist Founders Park. It's in Alexandria, Virginia in the Old Town Area. Here, you can be next to the Potomac River, and enjoy a nice view of Maryland and DC. Also, it's peacefull.",
+            "image":"https://raw.githubusercontent.com/zainkahmad/project/refs/heads/main/Founders.JPG",
+            "website":"https://www.alexandriafounderspark.org/", 
+            "location": "Alexandria, Virginia (Old Town)",
+            "address":"351 N Union St, Alexandria, VA 22314",
+            "priority": 2
+
+        },
+
+        {
+            "id" : 4,
+            
+            "title": "Lake Accotink",
+
+            "description": "Vist this place located in Springfield, Virgina. Over here, you will see a stunning lake, and a stunning view. Come here for a peacefull walk with the breeze.",
+
+            "image": "https://raw.githubusercontent.com/zainkahmad/project/refs/heads/main/Lake_1.jpg",
+
+            "website" : "https://www.fairfaxcounty.gov/parks/accotink",
+
+            "location": "Springfield, Virginia",
+
+            "address" : "7500 Accotink Park Rd, Springfield, VA 22150",
+
+            "priority": 1
+
+        },
+
+        {
+            "id":5, 
+            "title": "Lake Ashburn", 
+            "description": "Home of the Data Centers, Ashburn, Virginia holds a lot of lakes that are a must see. One of them is Ashburn Lake, a nice little view of water in nice weather. A must see area to take a walk", 
+            "image": "https://raw.githubusercontent.com/zainkahmad/project/refs/heads/main/Ashbrun.JPG", 
+            "website": "https://www.ashburnvillage.org/info.php?pnum=8",
+            "location": "Ashburn, Virginia",
+            "address": "Cheltenham Cir Ashburn, VA 20147", 
+            "priority": 3
+        }, 
+
+        {
+            "id": 6, 
+            "title": "Cox Farms",
+            "description": "Vist this place in Centreville, Virginia in the Fall. Known for it's fun, community attracting, food, and many activities, Cox Farms delivers on high levels. Cox Farms is a lot of fun if visiting with family", 
+            "image": "https://raw.githubusercontent.com/zainkahmad/project/refs/heads/main/Cox_Farm.JPG",
+            "website": "https://coxfarmsva.com/", 
+            "location": "Centreville Virginia",
+            "address": "15621 Braddock Rd, Centreville, VA 20120",
+            "priority" : 1
+
+        }
+    ],
+    "Status": "OK"
+}
